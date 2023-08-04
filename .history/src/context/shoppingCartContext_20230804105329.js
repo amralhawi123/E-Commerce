@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { createContext } from "react";
 import CartProduct from "../components/CartProduct";
 
+
 const ShoppingCartContext = createContext({})
 
 const ShoppingCartProvider = ({children}) => {
