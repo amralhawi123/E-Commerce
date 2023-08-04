@@ -17,7 +17,7 @@ const CartProduct = () => {
                 cartItems.map((item) => (
                   <CardItem key={item.id} {...item}/>
                 ))
-              ): (<h3>There is no Items</h3>)
+              ): (<h1>There is no Items</h1>)
             }
           </div>
           <div className='col-md-4 box b2'>
