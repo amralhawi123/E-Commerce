@@ -1,0 +1,37 @@
+[
+   {
+      "id":1,
+      "name":"Shose",
+      "price":200,
+      "discount":50,
+      "imageUrl":"/images/flash/flash-1.png"
+   },
+   {
+      "id":2,
+      "name":"Watch",
+      "price":230,
+      "discount":20,
+      "imageUrl":"/images/flash/flash-2.png"
+   },
+   {
+      "id":3,
+      "name":"Smart Mobile Black",
+      "price":500,
+      "discount":40,
+      "imageUrl":"/images/flash/flash-3.png"
+   },
+   {
+      "id":4,
+      "name":"Smart Watch Black",
+      "price":200,
+      "discount":50,
+      "imageUrl":"/images/flash/flash-4.png"
+   },
+   {
+      "id":4,
+      "name":"Sunglass",
+      "price":100,
+      "discount":50,
+      "imageUrl":"/images/flash/flash-5.png"
+   }
+]
