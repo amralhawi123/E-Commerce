@@ -17,6 +17,7 @@ const FlashDeals = () => {
   const increment =() => {
     setCount(count + 1)
   }
+  
  
   var settings = {
     dots: true,
