@@ -865,7 +865,6 @@ color:var(--gray-color);
 /* start cartProduct */
 .cartProduct{
    margin: 80px 0;
-   height: 88vh;
 }
 .cartProduct .box{
    background: #fff;
